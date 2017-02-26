@@ -1,0 +1,243 @@
+2017-02-26 12:50:52.17: Couple Created :
+Name of Boy: yvbvksfmuzq
+Name of Girl: krsfbpnyxuvbh
+
+2017-02-26 12:50:52.181: Gift Given :
+price:150.09093	value:-371.51456	type:essential
+
+2017-02-26 12:50:52.181: Gift Given :
+price:150.34824	value:359.62656	type:essential
+
+2017-02-26 12:50:52.181: Gift Given :
+price:150.65411	value:-992.3387	type:essential
+
+2017-02-26 12:50:52.181: Gift Given :
+price:152.32268	value:245.33856	type:essential
+
+2017-02-26 12:50:52.182: Couple Created :
+Name of Boy: wpuvuukemhpsslbk
+Name of Girl: znvmled
+
+2017-02-26 12:50:52.183: Gift Given :
+price:152.80536	value:380.37015	type:essential
+
+2017-02-26 12:50:52.183: Gift Given :
+price:153.7388	value:-500.6095	type:essential
+
+2017-02-26 12:50:52.183: Gift Given :
+price:153.865	value:-1190.1956	type:essential
+
+2017-02-26 12:50:52.183: Gift Given :
+price:155.16951	value:175.98074	type:essential
+
+2017-02-26 12:50:52.183: Gift Given :
+price:155.34796	value:-0.7584839	type:essential
+
+2017-02-26 12:50:52.183: Gift Given :
+price:155.86143	value:-209.27936	type:essential
+
+2017-02-26 12:50:52.183: Gift Given :
+price:156.28706	value:-534.8129	type:essential
+
+2017-02-26 12:50:52.183: Gift Given :
+price:156.79225	value:-977.75616	type:essential
+
+2017-02-26 12:50:52.183: Gift Given :
+price:250.11687	value:104.37042	type:luxury
+
+2017-02-26 12:50:52.185: Couple Created :
+Name of Boy: wycchvpfwbkm
+Name of Girl: vjosnizt
+
+2017-02-26 12:50:52.185: Gift Given :
+price:250.24121	value:98.59668	type:utility
+
+2017-02-26 12:50:52.185: Gift Given :
+price:250.30817	value:-526.9376	type:luxury
+
+2017-02-26 12:50:52.185: Gift Given :
+price:250.43568	value:-705.85236	type:utility
+
+2017-02-26 12:50:52.185: Gift Given :
+price:250.52768	value:-496.22284	type:luxury
+
+2017-02-26 12:50:52.185: Couple Created :
+Name of Boy: jgqcasaqsvbmfjqide
+Name of Girl: yzarimcaslpn
+
+2017-02-26 12:50:52.185: Gift Given :
+price:250.61655	value:-87.26001	type:utility
+
+2017-02-26 12:50:52.185: Gift Given :
+price:250.79065	value:-662.304	type:luxury
+
+2017-02-26 12:50:52.185: Gift Given :
+price:250.84787	value:-611.4208	type:utility
+
+2017-02-26 12:50:52.185: Gift Given :
+price:250.90092	value:-224.85254	type:utility
+
+2017-02-26 12:50:52.185: Gift Given :
+price:251.09644	value:-932.2866	type:essential
+
+2017-02-26 12:50:52.186: Couple Created :
+Name of Boy: hyepbphqakh
+Name of Girl: fqgyriwle
+
+2017-02-26 12:50:52.186: Gift Given :
+price:251.21164	value:587.42554	type:utility
+
+2017-02-26 12:50:52.186: Gift Given :
+price:251.25653	value:305.75372	type:utility
+
+2017-02-26 12:50:52.186: Gift Given :
+price:251.43091	value:-378.94067	type:utility
+
+2017-02-26 12:50:52.186: Gift Given :
+price:251.56995	value:-717.2272	type:essential
+
+2017-02-26 12:50:52.186: Gift Given :
+price:252.20271	value:-1187.8947	type:essential
+
+2017-02-26 12:50:52.186: Gift Given :
+price:253.54344	value:-1365.176	type:luxury
+
+2017-02-26 12:50:52.187: Couple Created :
+Name of Boy: ujiutb
+Name of Girl: tnwct
+
+2017-02-26 12:50:52.187: Gift Given :
+price:253.62569	value:-245.89499	type:luxury
+
+2017-02-26 12:50:52.187: Gift Given :
+price:253.62643	value:-1178.6086	type:utility
+
+2017-02-26 12:50:52.187: Gift Given :
+price:253.83153	value:-974.72614	type:essential
+
+2017-02-26 12:50:52.187: Gift Given :
+price:253.97331	value:124.38069	type:luxury
+
+2017-02-26 12:50:52.187: Gift Given :
+price:254.05318	value:-413.08694	type:essential
+
+2017-02-26 12:50:52.187: Gift Given :
+price:254.06453	value:-152.90762	type:luxury
+
+2017-02-26 12:50:52.188: Couple Created :
+Name of Boy: nbdlytkxqslftcsj
+Name of Girl: domfxhajav
+
+2017-02-26 12:50:52.188: Gift Given :
+price:254.08138	value:245.01169	type:luxury
+
+2017-02-26 12:50:52.188: Gift Given :
+price:254.155	value:-428.1319	type:essential
+
+2017-02-26 12:50:52.188: Gift Given :
+price:254.37529	value:664.7521	type:utility
+
+2017-02-26 12:50:52.188: Gift Given :
+price:254.6537	value:361.45734	type:essential
+
+2017-02-26 12:50:52.188: Gift Given :
+price:254.84769	value:-212.1142	type:essential
+
+2017-02-26 12:50:52.188: Gift Given :
+price:255.04857	value:-331.51007	type:utility
+
+2017-02-26 12:50:52.188: Couple Created :
+Name of Boy: kzjlomchqr
+Name of Girl: jidzip
+
+2017-02-26 12:50:52.188: Gift Given :
+price:255.22517	value:-770.7755	type:utility
+
+2017-02-26 12:50:52.188: Gift Given :
+price:256.7566	value:-1529.2379	type:luxury
+
+2017-02-26 12:50:52.189: Couple Created :
+Name of Boy: wkgcdplgtwos
+Name of Girl: sjrawcoqpidzpuvyb
+
+2017-02-26 12:50:52.189: Gift Given :
+price:256.7795	value:-479.88904	type:essential
+
+2017-02-26 12:50:52.189: Gift Given :
+price:256.79938	value:-1429.2382	type:utility
+
+2017-02-26 12:50:52.189: Gift Given :
+price:256.9291	value:-1118.026	type:essential
+
+2017-02-26 12:50:52.189: Couple Created :
+Name of Boy: izhecluhjc
+Name of Girl: ntlpzmebazmn
+
+2017-02-26 12:50:52.189: Gift Given :
+price:257.07712	value:-640.3171	type:utility
+
+2017-02-26 12:50:52.189: Gift Given :
+price:257.17053	value:-1094.9905	type:utility
+
+2017-02-26 12:50:52.189: Gift Given :
+price:257.18625	value:576.88257	type:essential
+
+2017-02-26 12:50:52.189: Gift Given :
+price:257.38773	value:431.88608	type:luxury
+
+2017-02-26 12:50:52.189: Gift Given :
+price:257.56177	value:71.61334	type:luxury
+
+2017-02-26 12:50:52.189: Gift Given :
+price:258.07068	value:-1454.466	type:utility
+
+2017-02-26 12:50:52.189: Gift Given :
+price:261.44543	value:-107.08197	type:luxury
+
+2017-02-26 12:50:52.19: Couple Created :
+Name of Boy: srtpblylaufaq
+Name of Girl: nbwuaparogi
+
+2017-02-26 12:50:52.19: Gift Given :
+price:261.47095	value:-1414.6458	type:essential
+
+2017-02-26 12:50:52.19: Gift Given :
+price:261.5625	value:-890.025	type:utility
+
+2017-02-26 12:50:52.19: Gift Given :
+price:261.60815	value:-737.54553	type:luxury
+
+2017-02-26 12:50:52.19: Gift Given :
+price:261.74518	value:-730.082	type:utility
+
+2017-02-26 12:50:52.19: Gift Given :
+price:261.91785	value:-832.4521	type:utility
+
+2017-02-26 12:50:52.19: Couple Created :
+Name of Boy: zfwdzstiargshxfrp
+Name of Girl: mvwnpxya
+
+2017-02-26 12:50:52.191: Gift Given :
+price:261.93524	value:-839.4013	type:utility
+
+2017-02-26 12:50:52.191: Gift Given :
+price:262.0398	value:86.88129	type:essential
+
+2017-02-26 12:50:52.191: Gift Given :
+price:262.0697	value:-1015.885	type:utility
+
+2017-02-26 12:50:52.191: Gift Given :
+price:262.09882	value:-52.41223	type:essential
+
+2017-02-26 12:50:52.191: Gift Given :
+price:262.09924	value:-163.64105	type:utility
+
+2017-02-26 12:50:52.191: Gift Given :
+price:262.3678	value:-697.9951	type:utility
+
+2017-02-26 12:50:52.191: Gift Given :
+price:262.5147	value:-179.4274	type:essential
+
+2017-02-26 12:50:52.191: Gift Given :
+price:262.68616	value:-1651.4125	type:utility
+
