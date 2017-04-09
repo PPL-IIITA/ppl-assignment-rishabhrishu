@@ -1,0 +1,23 @@
+2017-04-09 22:40:01.948: <Couple FORMED>Name of Boy: bjznmbbu
+Name of Girl: issceze
+happiness: 98.21829162207803
+Compatibility: 905
+
+2017-04-09 22:40:01.956: <Gifting>Essential Gift:- Price: 153.288 Value: 263.951
+
+2017-04-09 22:40:01.956: <Gifting>Essential Gift:- Price: 150.033 Value: -1.077
+
+2017-04-09 22:40:01.956: <Gifting>Essential Gift:- Price: 153.697 Value: 106.797
+
+2017-04-09 22:40:01.957: <Gifting>Essential Gift:- Price: 153.947 Value: -267.615
+
+2017-04-09 22:40:01.957: <Gifting>Essential Gift:- Price: 152.152 Value: -340.306
+
+2017-04-09 22:40:01.958: <Gifting>Essential Gift:- Price: 150.359 Value: -420.729
+
+2017-04-09 22:40:01.958: <Gifting>Essential Gift:- Price: 154.438 Value: -50.539
+
+2017-04-09 22:40:01.959: <Gifting>Essential Gift:- Price: 154.540 Value: -300.400
+
+2017-04-09 22:40:01.959: <Gifting>Luxury Gift:- Price: 250.717 Value: -680.230 Luxury Rating: 3 Difficulty in obtaining: almost impossible
+

@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interfacecom_1_1relationship_1_1_algorithm.html" title="com.relationship.Algorithm" alt="" coords="5,111,181,137"/>
+<area shape="rect" id="node2" href="$classcom_1_1relationship_1_1_couple_allocator.html" title="com.relationship.CoupleAllocator" alt="" coords="229,77,443,104"/>
+<area shape="rect" id="node5" href="$classcom_1_1relationship_1_1_gifting_algorithm.html" title="com.relationship.Gifting\lAlgorithm" alt="" coords="257,135,415,177"/>
+<area shape="rect" id="node3" href="$classcom_1_1relationship_1_1_couple_allocator_method1.html" title="com.relationship.CoupleAllocator\lMethod1" alt="" coords="491,5,704,46"/>
+<area shape="rect" id="node4" href="$classcom_1_1relationship_1_1_couple_allocator_method2.html" title="com.relationship.CoupleAllocator\lMethod2" alt="" coords="491,70,704,111"/>
+<area shape="rect" id="node6" href="$classcom_1_1relationship_1_1_gifting_algorithm_method1.html" title="com.relationship.Gifting\lAlgorithmMethod1" alt="" coords="518,135,677,177"/>
+<area shape="rect" id="node7" href="$classcom_1_1relationship_1_1_gifting_algorithm_method2.html" title="com.relationship.Gifting\lAlgorithmMethod2" alt="" coords="518,201,677,242"/>
+</map>
