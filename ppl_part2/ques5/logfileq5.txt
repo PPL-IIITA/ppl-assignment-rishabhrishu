@@ -1,0 +1,336 @@
+2017-04-09 16:57:15.064: <COUPLE FORMED>Boy's Name: qwemccwossgrtqsl Girl's Name: ngxvhyvpdtmlpnbtq
+2017-04-09 16:57:15.064: <GIFTING>Essential Gift:- Price: 150.238 Value: 468.684
+
+2017-04-09 16:57:15.064: <GIFTING>Essential Gift:- Price: 150.243 Value: -1823.788
+
+2017-04-09 16:57:15.064: <GIFTING>Essential Gift:- Price: 150.348 Value: -256.039
+
+2017-04-09 16:57:15.064: <GIFTING>Essential Gift:- Price: 150.463 Value: -737.378
+
+2017-04-09 16:57:15.064: <GIFTING>Essential Gift:- Price: 150.471 Value: -929.416
+
+2017-04-09 16:57:15.064: <COUPLE FORMED>Boy's Name: bzasheuczu Girl's Name: salucnzewxdyt
+2017-04-09 16:57:15.064: <GIFTING>Essential Gift:- Price: 150.986 Value: 671.616
+
+2017-04-09 16:57:15.08: <GIFTING>Essential Gift:- Price: 151.072 Value: -349.628
+
+2017-04-09 16:57:15.08: <GIFTING>Luxury Gift:- Price: 250.071 Value: -570.166 Luxury Rating: 8 Difficulty in obtaining: medium
+
+2017-04-09 16:57:15.08: <COUPLE FORMED>Boy's Name: qwemccwossgrtqsl Girl's Name: cdmxuochkzkkljnuomq
+2017-04-09 16:57:15.08: <GIFTING>Luxury Gift:- Price: 250.112 Value: 406.150 Luxury Rating: 9 Difficulty in obtaining: very hard
+
+2017-04-09 16:57:15.08: <GIFTING>Essential Gift:- Price: 250.136 Value: 258.453
+
+2017-04-09 16:57:15.08: <GIFTING>Utility Gift:- Price: 250.417 Value: 562.083 Utility Class: cckvignzzf Utility Value; 096775 
+
+2017-04-09 16:57:15.08: <GIFTING>Utility Gift:- Price: 250.544 Value: -350.734 Utility Class: mnpajufwyw Utility Value; 206945 
+
+2017-04-09 16:57:15.08: <COUPLE FORMED>Boy's Name: qwemccwossgrtqsl Girl's Name: wfbntcztznntbz
+2017-04-09 16:57:15.08: <GIFTING>Utility Gift:- Price: 250.692 Value: -923.213 Utility Class: ztpgceqbqf Utility Value; 405571 
+
+2017-04-09 16:57:15.08: <GIFTING>Utility Gift:- Price: 250.727 Value: 179.021 Utility Class: cgpylxmxkj Utility Value; 861490 
+
+2017-04-09 16:57:15.08: <GIFTING>Utility Gift:- Price: 250.773 Value: -452.983 Utility Class: cfzonytgbt Utility Value; 913336 
+
+2017-04-09 16:57:15.08: <GIFTING>Utility Gift:- Price: 251.059 Value: -533.702 Utility Class: norydfqhpj Utility Value; 274863 
+
+2017-04-09 16:57:15.08: <COUPLE FORMED>Boy's Name: hbvfgtjasbcfrs Girl's Name: ngxvhyvpdtmlpnbtq
+2017-04-09 16:57:15.08: <GIFTING>Essential Gift:- Price: 251.130 Value: 570.264
+
+2017-04-09 16:57:15.08: <GIFTING>Utility Gift:- Price: 251.175 Value: -902.678 Utility Class: qrnuezovyc Utility Value; 251453 
+
+2017-04-09 16:57:15.08: <COUPLE FORMED>Boy's Name: qwemccwossgrtqsl Girl's Name: jpamtmkkpdfjxfark
+2017-04-09 16:57:15.08: <GIFTING>Essential Gift:- Price: 251.470 Value: -156.660
+
+2017-04-09 16:57:15.08: <GIFTING>Essential Gift:- Price: 251.547 Value: -1006.432
+
+2017-04-09 16:57:15.08: <GIFTING>Utility Gift:- Price: 251.642 Value: -641.817 Utility Class: osnedgzgyb Utility Value; 594257 
+
+2017-04-09 16:57:15.08: <COUPLE FORMED>Boy's Name: enjtpmxcwltinrws Girl's Name: ngxvhyvpdtmlpnbtq
+2017-04-09 16:57:15.08: <GIFTING>Essential Gift:- Price: 251.945 Value: -1699.076
+
+2017-04-09 16:57:15.08: <GIFTING>Essential Gift:- Price: 252.005 Value: 160.107
+
+2017-04-09 16:57:15.08: <GIFTING>Utility Gift:- Price: 252.084 Value: -325.117 Utility Class: zxewtnfmqs Utility Value; 587929 
+
+2017-04-09 16:57:15.08: <COUPLE FORMED>Boy's Name: wrmend Girl's Name: salucnzewxdyt
+2017-04-09 16:57:15.08: <GIFTING>Essential Gift:- Price: 252.139 Value: -1517.073
+
+2017-04-09 16:57:15.08: <COUPLE FORMED>Boy's Name: qwemccwossgrtqsl Girl's Name: kueqoczw
+2017-04-09 16:57:15.08: <GIFTING>Utility Gift:- Price: 252.186 Value: -551.161 Utility Class: hkknnaxqpq Utility Value; 157282 
+
+2017-04-09 16:57:15.08: <GIFTING>Utility Gift:- Price: 252.222 Value: -1053.757 Utility Class: ynbmyudmdl Utility Value; 626856 
+
+2017-04-09 16:57:15.08: <GIFTING>Luxury Gift:- Price: 252.307 Value: -751.396 Luxury Rating: 3 Difficulty in obtaining: very hard
+
+2017-04-09 16:57:15.08: <GIFTING>Luxury Gift:- Price: 252.455 Value: -628.535 Luxury Rating: 10 Difficulty in obtaining: very easy
+
+2017-04-09 16:57:15.08: <GIFTING>Utility Gift:- Price: 252.623 Value: -361.375 Utility Class: dxrdtfrega Utility Value; 387771 
+
+2017-04-09 16:57:15.08: <GIFTING>Utility Gift:- Price: 252.645 Value: 338.310 Utility Class: ymfmiaugwr Utility Value; 311012 
+
+2017-04-09 16:57:15.08: <COUPLE FORMED>Boy's Name: cyfyqgehszm Girl's Name: ngxvhyvpdtmlpnbtq
+2017-04-09 16:57:15.08: <GIFTING>Utility Gift:- Price: 252.680 Value: 140.370 Utility Class: yapphoypzu Utility Value; 308855 
+
+2017-04-09 16:57:15.08: <GIFTING>Utility Gift:- Price: 252.805 Value: -288.867 Utility Class: pezoqfgzpr Utility Value; 913898 
+
+2017-04-09 16:57:15.08: <GIFTING>Luxury Gift:- Price: 252.926 Value: -1633.862 Luxury Rating: 5 Difficulty in obtaining: almost impossible
+
+2017-04-09 16:57:15.08: <GIFTING>Luxury Gift:- Price: 252.991 Value: -1446.390 Luxury Rating: 9 Difficulty in obtaining: almost impossible
+
+2017-04-09 16:57:15.08: <COUPLE FORMED>Boy's Name: qwemccwossgrtqsl Girl's Name: dfzpbhkfoqjtyuenctv
+2017-04-09 16:57:15.08: <GIFTING>Utility Gift:- Price: 253.032 Value: -31.762 Utility Class: leohydmfhn Utility Value; 920335 
+
+2017-04-09 16:57:15.08: <GIFTING>Utility Gift:- Price: 253.055 Value: -979.760 Utility Class: inurllyorf Utility Value; 748567 
+
+2017-04-09 16:57:15.08: <GIFTING>Utility Gift:- Price: 253.128 Value: 0.634 Utility Class: gwcrlxdduo Utility Value; 222815 
+
+2017-04-09 16:57:15.08: <GIFTING>Luxury Gift:- Price: 253.389 Value: -39.938 Luxury Rating: 11 Difficulty in obtaining: almost impossible
+
+2017-04-09 16:57:15.08: <GIFTING>Essential Gift:- Price: 253.544 Value: 222.419
+
+2017-04-09 16:57:15.08: <COUPLE FORMED>Boy's Name: nceleedqdnhgik Girl's Name: ngxvhyvpdtmlpnbtq
+2017-04-09 16:57:15.08: <GIFTING>Utility Gift:- Price: 253.552 Value: -1736.071 Utility Class: tvorbpcevv Utility Value; 825487 
+
+2017-04-09 16:57:15.08: <GIFTING>Utility Gift:- Price: 253.675 Value: 934.768 Utility Class: zqwfhtrpog Utility Value; 633150 
+
+2017-04-09 16:57:15.08: <GIFTING>Essential Gift:- Price: 253.692 Value: -961.089
+
+2017-04-09 16:57:15.08: <GIFTING>Luxury Gift:- Price: 255.294 Value: 508.779 Luxury Rating: 4 Difficulty in obtaining: almost impossible
+
+2017-04-09 16:57:15.08: <COUPLE FORMED>Boy's Name: qwemccwossgrtqsl Girl's Name: mbwqxcqplwnzvjgajw
+2017-04-09 16:57:15.08: <GIFTING>Essential Gift:- Price: 255.318 Value: -946.014
+
+2017-04-09 16:57:15.08: <GIFTING>Utility Gift:- Price: 255.324 Value: -1061.559 Utility Class: qidmolwcum Utility Value; 411425 
+
+2017-04-09 16:57:15.08: <GIFTING>Utility Gift:- Price: 255.446 Value: 85.786 Utility Class: sxjrvaiydy Utility Value; 383142 
+
+2017-04-09 16:57:15.08: <GIFTING>Utility Gift:- Price: 255.458 Value: 620.286 Utility Class: krxdaeiuwb Utility Value; 016149 
+
+2017-04-09 16:57:15.08: <GIFTING>Essential Gift:- Price: 255.550 Value: -311.810
+
+2017-04-09 16:57:15.08: <COUPLE FORMED>Boy's Name: uxtxkqipjzvzx Girl's Name: ngxvhyvpdtmlpnbtq
+2017-04-09 16:57:15.08: <GIFTING>Utility Gift:- Price: 255.554 Value: 763.300 Utility Class: mtzbsuqlxf Utility Value; 527400 
+
+2017-04-09 16:57:15.08: <GIFTING>Essential Gift:- Price: 255.561 Value: -415.345
+
+2017-04-09 16:57:15.08: <GIFTING>Utility Gift:- Price: 255.619 Value: -707.863 Utility Class: scefetgmzs Utility Value; 054879 
+
+2017-04-09 16:57:15.08: <COUPLE FORMED>Boy's Name: qwemccwossgrtqsl Girl's Name: tmvyuggnjw
+2017-04-09 16:57:15.08: <GIFTING>Utility Gift:- Price: 255.620 Value: 358.178 Utility Class: vyywfmfpsu Utility Value; 574112 
+
+2017-04-09 16:57:15.08: <GIFTING>Luxury Gift:- Price: 255.833 Value: -755.530 Luxury Rating: 3 Difficulty in obtaining: almost impossible
+
+2017-04-09 16:57:15.08: <GIFTING>Luxury Gift:- Price: 255.834 Value: -826.601 Luxury Rating: 3 Difficulty in obtaining: almost impossible
+
+2017-04-09 16:57:15.08: <GIFTING>Luxury Gift:- Price: 255.850 Value: -770.557 Luxury Rating: 5 Difficulty in obtaining: easy
+
+2017-04-09 16:57:15.08: <GIFTING>Utility Gift:- Price: 256.110 Value: 137.675 Utility Class: xekawdxdoa Utility Value; 073977 
+
+2017-04-09 16:57:15.08: <GIFTING>Essential Gift:- Price: 256.478 Value: -1667.717
+
+2017-04-09 16:57:15.08: <COUPLE FORMED>Boy's Name: bngumrj Girl's Name: ngxvhyvpdtmlpnbtq
+2017-04-09 16:57:15.08: <GIFTING>Essential Gift:- Price: 256.564 Value: -1577.329
+
+2017-04-09 16:57:15.08: <GIFTING>Utility Gift:- Price: 256.858 Value: -749.008 Utility Class: ivjawaesmn Utility Value; 349723 
+
+2017-04-09 16:57:15.08: <GIFTING>Essential Gift:- Price: 256.917 Value: 330.938
+
+2017-04-09 16:57:15.08: <GIFTING>Utility Gift:- Price: 256.964 Value: 563.194 Utility Class: yeemqqsfse Utility Value; 835497 
+
+2017-04-09 16:57:15.08: <GIFTING>Utility Gift:- Price: 257.168 Value: 156.716 Utility Class: ktkjmiupao Utility Value; 493854 
+
+2017-04-09 16:57:15.08: <GIFTING>Utility Gift:- Price: 257.176 Value: -756.949 Utility Class: jhluojnrwi Utility Value; 971470 
+
+2017-04-09 16:57:15.08: <GIFTING>Essential Gift:- Price: 257.249 Value: 643.231
+
+2017-04-09 16:57:15.08: <GIFTING>Utility Gift:- Price: 257.558 Value: -849.539 Utility Class: shopvtegux Utility Value; 060558 
+
+2017-04-09 16:57:15.08: <COUPLE FORMED>Boy's Name: bzasheuczu Girl's Name: qiwpdksoctyufcszxlv
+2017-04-09 16:57:15.08: <GIFTING>Essential Gift:- Price: 257.609 Value: -610.409
+
+2017-04-09 16:57:15.08: <GIFTING>Utility Gift:- Price: 257.617 Value: -833.935 Utility Class: pgsrvroufq Utility Value; 610826 
+
+2017-04-09 16:57:15.08: <GIFTING>Luxury Gift:- Price: 258.482 Value: 282.223 Luxury Rating: 1 Difficulty in obtaining: very hard
+
+2017-04-09 16:57:15.08: <COUPLE FORMED>Boy's Name: hcasmfubo Girl's Name: ngxvhyvpdtmlpnbtq
+2017-04-09 16:57:15.08: <GIFTING>Utility Gift:- Price: 258.580 Value: -121.543 Utility Class: qjisazvxdu Utility Value; 535045 
+
+2017-04-09 16:57:15.095: <GIFTING>Luxury Gift:- Price: 258.663 Value: -598.186 Luxury Rating: 4 Difficulty in obtaining: almost impossible
+
+2017-04-09 16:57:15.095: <GIFTING>Essential Gift:- Price: 258.672 Value: -1124.350
+
+2017-04-09 16:57:15.095: <GIFTING>Luxury Gift:- Price: 259.529 Value: -828.429 Luxury Rating: 11 Difficulty in obtaining: almost impossible
+
+2017-04-09 16:57:15.095: <COUPLE FORMED>Boy's Name: qwemccwossgrtqsl Girl's Name: jsrlzfrjodg
+2017-04-09 16:57:15.095: <GIFTING>Utility Gift:- Price: 259.551 Value: -1307.207 Utility Class: evtebdtoff Utility Value; 086235 
+
+2017-04-09 16:57:15.095: <GIFTING>Utility Gift:- Price: 259.635 Value: -344.014 Utility Class: ptpplbjzpj Utility Value; 906418 
+
+2017-04-09 16:57:15.095: <GIFTING>Essential Gift:- Price: 259.778 Value: -253.692
+
+2017-04-09 16:57:15.095: <GIFTING>Utility Gift:- Price: 260.063 Value: -276.866 Utility Class: wiljpupqay Utility Value; 650580 
+
+2017-04-09 16:57:15.095: <GIFTING>Utility Gift:- Price: 260.074 Value: 77.874 Utility Class: olouqzhqpc Utility Value; 822523 
+
+2017-04-09 16:57:15.095: <GIFTING>Essential Gift:- Price: 260.132 Value: -1021.590
+
+2017-04-09 16:57:15.095: <COUPLE FORMED>Boy's Name: tgxrxevavhpzgikhzbf Girl's Name: ngxvhyvpdtmlpnbtq
+2017-04-09 16:57:15.095: <GIFTING>Utility Gift:- Price: 260.561 Value: -723.835 Utility Class: sxvjrjwxvw Utility Value; 211098 
+
+2017-04-09 16:57:15.095: <GIFTING>Utility Gift:- Price: 260.732 Value: -265.606 Utility Class: tdbngxfwyw Utility Value; 432207 
+
+2017-04-09 16:57:15.095: <GIFTING>Utility Gift:- Price: 260.773 Value: -1152.092 Utility Class: bqzzxccqay Utility Value; 374596 
+
+2017-04-09 16:57:15.095: <GIFTING>Luxury Gift:- Price: 260.773 Value: 302.857 Luxury Rating: 6 Difficulty in obtaining: medium
+
+2017-04-09 16:57:15.095: <COUPLE FORMED>Boy's Name: qwemccwossgrtqsl Girl's Name: ixrqrh
+2017-04-09 16:57:15.095: <GIFTING>Utility Gift:- Price: 260.875 Value: 285.152 Utility Class: hwwadeoxgb Utility Value; 032875 
+
+2017-04-09 16:57:15.095: <GIFTING>Utility Gift:- Price: 261.070 Value: -1121.878 Utility Class: khkgjrginx Utility Value; 361375 
+
+2017-04-09 16:57:15.095: <GIFTING>Utility Gift:- Price: 261.333 Value: -662.809 Utility Class: clczifmssi Utility Value; 400090 
+
+2017-04-09 16:57:15.095: <GIFTING>Essential Gift:- Price: 261.376 Value: -579.584
+
+2017-04-09 16:57:15.095: <GIFTING>Utility Gift:- Price: 261.518 Value: 641.648 Utility Class: gprduibtyw Utility Value; 808589 
+
+2017-04-09 16:57:15.095: <GIFTING>Utility Gift:- Price: 261.520 Value: -43.265 Utility Class: ajkexzhswn Utility Value; 050356 
+
+2017-04-09 16:57:15.095: <COUPLE FORMED>Boy's Name: qclndhtaelcmpqozzw Girl's Name: ngxvhyvpdtmlpnbtq
+2017-04-09 16:57:15.095: <GIFTING>Essential Gift:- Price: 261.530 Value: -622.269
+
+2017-04-09 16:57:15.095: <GIFTING>Utility Gift:- Price: 261.686 Value: -1004.415 Utility Class: jnwtioqila Utility Value; 555470 
+
+2017-04-09 16:57:15.095: <GIFTING>Utility Gift:- Price: 261.775 Value: 995.307 Utility Class: fkvkyqinoo Utility Value; 338851 
+
+2017-04-09 16:57:15.095: <GIFTING>Luxury Gift:- Price: 263.238 Value: -673.435 Luxury Rating: 5 Difficulty in obtaining: very easy
+
+2017-04-09 16:57:15.095: <COUPLE FORMED>Boy's Name: qwemccwossgrtqsl Girl's Name: xincsqkzbat
+2017-04-09 16:57:15.095: <GIFTING>Essential Gift:- Price: 263.255 Value: -249.979
+
+2017-04-09 16:57:15.095: <GIFTING>Utility Gift:- Price: 263.355 Value: 288.469 Utility Class: fypergyocm Utility Value; 466977 
+
+2017-04-09 16:57:15.095: <GIFTING>Luxury Gift:- Price: 263.459 Value: -1640.010 Luxury Rating: 3 Difficulty in obtaining: very hard
+
+2017-04-09 16:57:15.095: <GIFTING>Utility Gift:- Price: 263.459 Value: -1616.530 Utility Class: rsjeokneqm Utility Value; 027636 
+
+2017-04-09 16:57:15.095: <COUPLE FORMED>Boy's Name: lokpqgszsbfwadcbym Girl's Name: ngxvhyvpdtmlpnbtq
+2017-04-09 16:57:15.095: <GIFTING>Utility Gift:- Price: 263.710 Value: -9.731 Utility Class: zjgcasmeqk Utility Value; 481296 
+
+2017-04-09 16:57:15.095: <GIFTING>Luxury Gift:- Price: 263.824 Value: 82.093 Luxury Rating: 9 Difficulty in obtaining: almost impossible
+
+2017-04-09 16:57:15.095: <GIFTING>Utility Gift:- Price: 263.886 Value: 340.632 Utility Class: mhdqerpduk Utility Value; 230777 
+
+2017-04-09 16:57:15.095: <COUPLE FORMED>Boy's Name: bzasheuczu Girl's Name: kvhyuybvynncmtd
+2017-04-09 16:57:15.095: <GIFTING>Essential Gift:- Price: 263.927 Value: -851.707
+
+2017-04-09 16:57:15.095: <GIFTING>Utility Gift:- Price: 264.156 Value: -844.348 Utility Class: puenmmhllv Utility Value; 900689 
+
+2017-04-09 16:57:15.095: <GIFTING>Luxury Gift:- Price: 264.679 Value: -1494.524 Luxury Rating: 11 Difficulty in obtaining: very easy
+
+2017-04-09 16:57:15.095: <COUPLE FORMED>Boy's Name: lewyixchbptwumdnm Girl's Name: ngxvhyvpdtmlpnbtq
+2017-04-09 16:57:15.095: <GIFTING>Utility Gift:- Price: 264.808 Value: -58.037 Utility Class: xzdowunshm Utility Value; 088277 
+
+2017-04-09 16:57:15.095: <GIFTING>Luxury Gift:- Price: 264.983 Value: -1157.525 Luxury Rating: 11 Difficulty in obtaining: medium
+
+2017-04-09 16:57:15.095: <GIFTING>Utility Gift:- Price: 265.062 Value: -996.351 Utility Class: zumxfbwzdy Utility Value; 708110 
+
+2017-04-09 16:57:15.095: <GIFTING>Luxury Gift:- Price: 265.276 Value: 461.276 Luxury Rating: 4 Difficulty in obtaining: medium
+
+2017-04-09 16:57:15.095: <GIFTING>Utility Gift:- Price: 265.420 Value: -346.045 Utility Class: slyuquunjj Utility Value; 967006 
+
+2017-04-09 16:57:15.095: <COUPLE FORMED>Boy's Name: bzasheuczu Girl's Name: rjogpihehshjsucgy
+2017-04-09 16:57:15.095: <GIFTING>Essential Gift:- Price: 265.811 Value: -326.903
+
+2017-04-09 16:57:15.095: <GIFTING>Utility Gift:- Price: 265.911 Value: -416.312 Utility Class: wgrsxosjpr Utility Value; 900937 
+
+2017-04-09 16:57:15.095: <GIFTING>Luxury Gift:- Price: 267.160 Value: -804.484 Luxury Rating: 11 Difficulty in obtaining: almost impossible
+
+2017-04-09 16:57:15.095: <COUPLE FORMED>Boy's Name: fnjsymmgrlwhonac Girl's Name: ngxvhyvpdtmlpnbtq
+2017-04-09 16:57:15.095: <GIFTING>Utility Gift:- Price: 267.284 Value: -319.392 Utility Class: czyepuqfoh Utility Value; 002078 
+
+2017-04-09 16:57:15.095: <GIFTING>Utility Gift:- Price: 267.295 Value: 519.384 Utility Class: cbvqdzinmn Utility Value; 750839 
+
+2017-04-09 16:57:15.095: <GIFTING>Utility Gift:- Price: 267.350 Value: 503.278 Utility Class: nuglyikqkp Utility Value; 776461 
+
+2017-04-09 16:57:15.095: <COUPLE FORMED>Boy's Name: bzasheuczu Girl's Name: gkrfiohhoarwcerdhrx
+2017-04-09 16:57:15.095: <GIFTING>Essential Gift:- Price: 267.481 Value: 317.281
+
+2017-04-09 16:57:15.095: <GIFTING>Luxury Gift:- Price: 267.491 Value: -1618.993 Luxury Rating: 5 Difficulty in obtaining: hard
+
+2017-04-09 16:57:15.095: <COUPLE FORMED>Boy's Name: qmjtebayrrhtxgcp Girl's Name: ngxvhyvpdtmlpnbtq
+2017-04-09 16:57:15.095: <GIFTING>Luxury Gift:- Price: 267.517 Value: -1317.226 Luxury Rating: 3 Difficulty in obtaining: very easy
+
+2017-04-09 16:57:15.095: <GIFTING>Luxury Gift:- Price: 267.521 Value: -1249.767 Luxury Rating: 10 Difficulty in obtaining: almost impossible
+
+2017-04-09 16:57:15.095: <GIFTING>Utility Gift:- Price: 267.673 Value: -1323.763 Utility Class: lytwkdxhnl Utility Value; 040829 
+
+2017-04-09 16:57:15.095: <GIFTING>Luxury Gift:- Price: 267.714 Value: -1113.028 Luxury Rating: 1 Difficulty in obtaining: very easy
+
+2017-04-09 16:57:15.095: <COUPLE FORMED>Boy's Name: qwemccwossgrtqsl Girl's Name: rkprxdlfpd
+2017-04-09 16:57:15.095: <GIFTING>Luxury Gift:- Price: 268.149 Value: -80.589 Luxury Rating: 2 Difficulty in obtaining: almost impossible
+
+2017-04-09 16:57:15.111: <GIFTING>Utility Gift:- Price: 268.154 Value: 294.551 Utility Class: jncivokguz Utility Value; 093007 
+
+2017-04-09 16:57:15.111: <GIFTING>Utility Gift:- Price: 268.249 Value: -792.779 Utility Class: yckhjiscuf Utility Value; 309663 
+
+2017-04-09 16:57:15.111: <GIFTING>Utility Gift:- Price: 268.280 Value: -1653.172 Utility Class: nwwutcxlhk Utility Value; 162118 
+
+2017-04-09 16:57:15.111: <COUPLE FORMED>Boy's Name: jsxgqobecmlfs Girl's Name: ngxvhyvpdtmlpnbtq
+2017-04-09 16:57:15.111: <GIFTING>Utility Gift:- Price: 268.337 Value: -256.794 Utility Class: tbbylpzpef Utility Value; 050012 
+
+2017-04-09 16:57:15.111: <GIFTING>Utility Gift:- Price: 268.441 Value: -1675.812 Utility Class: sgsjzqcjfj Utility Value; 029646 
+
+2017-04-09 16:57:15.111: <GIFTING>Essential Gift:- Price: 268.541 Value: -765.899
+
+2017-04-09 16:57:15.111: <GIFTING>Luxury Gift:- Price: 268.976 Value: -882.875 Luxury Rating: 3 Difficulty in obtaining: very easy
+
+2017-04-09 16:57:15.111: <COUPLE FORMED>Boy's Name: bzasheuczu Girl's Name: mxwqemqnfuribwpf
+2017-04-09 16:57:15.111: <GIFTING>Luxury Gift:- Price: 269.050 Value: -503.375 Luxury Rating: 5 Difficulty in obtaining: almost impossible
+
+2017-04-09 16:57:15.111: <GIFTING>Utility Gift:- Price: 269.156 Value: -1162.542 Utility Class: pnvcjrgicj Utility Value; 989196 
+
+2017-04-09 16:57:15.111: <GIFTING>Luxury Gift:- Price: 269.906 Value: -1206.685 Luxury Rating: 11 Difficulty in obtaining: very easy
+
+2017-04-09 16:57:15.111: <COUPLE FORMED>Boy's Name: ofhnrane Girl's Name: ngxvhyvpdtmlpnbtq
+2017-04-09 16:57:15.111: <GIFTING>Utility Gift:- Price: 269.920 Value: -862.631 Utility Class: kxlqibyuez Utility Value; 646146 
+
+2017-04-09 16:57:15.111: <GIFTING>Luxury Gift:- Price: 270.090 Value: 402.373 Luxury Rating: 4 Difficulty in obtaining: easy
+
+2017-04-09 16:57:15.111: <GIFTING>Utility Gift:- Price: 270.232 Value: -828.443 Utility Class: olhtnslboj Utility Value; 406508 
+
+2017-04-09 16:57:15.111: <GIFTING>Luxury Gift:- Price: 270.430 Value: -351.095 Luxury Rating: 5 Difficulty in obtaining: very easy
+
+2017-04-09 16:57:15.111: <COUPLE FORMED>Boy's Name: qwemccwossgrtqsl Girl's Name: hhawqdahcqal
+2017-04-09 16:57:15.111: <GIFTING>Essential Gift:- Price: 270.468 Value: -114.605
+
+2017-04-09 16:57:15.111: <GIFTING>Utility Gift:- Price: 270.484 Value: -649.766 Utility Class: dkmabgarpc Utility Value; 978730 
+
+2017-04-09 16:57:15.111: <GIFTING>Essential Gift:- Price: 270.596 Value: -585.495
+
+2017-04-09 16:57:15.111: <GIFTING>Luxury Gift:- Price: 270.705 Value: 134.320 Luxury Rating: 8 Difficulty in obtaining: almost impossible
+
+2017-04-09 16:57:15.111: <GIFTING>Essential Gift:- Price: 270.824 Value: 237.778
+
+2017-04-09 16:57:15.111: <COUPLE FORMED>Boy's Name: dpbnymqqvblodtjp Girl's Name: ngxvhyvpdtmlpnbtq
+2017-04-09 16:57:15.111: <GIFTING>Utility Gift:- Price: 270.872 Value: -1331.566 Utility Class: cxifiqhqho Utility Value; 874404 
+
+2017-04-09 16:57:15.111: <GIFTING>Luxury Gift:- Price: 270.901 Value: -1396.280 Luxury Rating: 4 Difficulty in obtaining: medium
+
+2017-04-09 16:57:15.111: <GIFTING>Utility Gift:- Price: 270.950 Value: -883.128 Utility Class: qwmgdooonv Utility Value; 531230 
+
+2017-04-09 16:57:15.111: <COUPLE FORMED>Boy's Name: bzasheuczu Girl's Name: rrnaggblhwlrtc
+2017-04-09 16:57:15.111: <GIFTING>Luxury Gift:- Price: 270.994 Value: -575.849 Luxury Rating: 8 Difficulty in obtaining: medium
+
+2017-04-09 16:57:15.111: <GIFTING>Utility Gift:- Price: 271.043 Value: 114.833 Utility Class: auohlgbesk Utility Value; 744839 
+
+2017-04-09 16:57:15.111: <GIFTING>Luxury Gift:- Price: 272.055 Value: -1351.959 Luxury Rating: 6 Difficulty in obtaining: medium
+
+2017-04-09 16:57:15.111: <COUPLE FORMED>Boy's Name: cneghxsj Girl's Name: ngxvhyvpdtmlpnbtq
+2017-04-09 16:57:15.111: <GIFTING>Utility Gift:- Price: 272.057 Value: -1107.427 Utility Class: tscwyrsaeg Utility Value; 411029 
+
+2017-04-09 16:57:15.111: <GIFTING>Utility Gift:- Price: 272.152 Value: -1378.463 Utility Class: ngozaksaku Utility Value; 968450 
+
+2017-04-09 16:57:15.111: <GIFTING>Luxury Gift:- Price: 272.401 Value: -1802.908 Luxury Rating: 1 Difficulty in obtaining: medium
+

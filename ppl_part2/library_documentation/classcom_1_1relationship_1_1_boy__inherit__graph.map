@@ -1,0 +1,6 @@
+<map id="com.relationship.Boy" name="com.relationship.Boy">
+<area shape="rect" id="node3" href="$classcom_1_1relationship_1_1_geeky_boy.html" title="com.relationship.GeekyBoy" alt="" coords="5,155,187,181"/>
+<area shape="rect" id="node4" href="$classcom_1_1relationship_1_1_generous_boy.html" title="com.relationship.GenerousBoy" alt="" coords="212,155,411,181"/>
+<area shape="rect" id="node5" href="$classcom_1_1relationship_1_1_miser_boy.html" title="com.relationship.MiserBoy" alt="" coords="436,155,612,181"/>
+<area shape="rect" id="node2" href="$classcom_1_1relationship_1_1_person.html" title="com.relationship.Person" alt="" coords="231,5,393,32"/>
+</map>

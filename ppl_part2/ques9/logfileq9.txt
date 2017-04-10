@@ -1,0 +1,17 @@
+2017-04-09 18:20:43.297: <Couple FORMED>Name of Boy: pyodonfwntgwezs
+Name of Girl: ngxvhyvpdtmlpnbtq
+happiness: 1317.1632242416288
+Compatibility: 2140
+
+2017-04-09 18:20:43.297: <Gifting>Essential Gift:- Price: 150.986 Value: 671.616
+
+2017-04-09 18:20:43.297: <Gifting>Essential Gift:- Price: 150.238 Value: 468.684
+
+2017-04-09 18:20:43.297: <Gifting>Essential Gift:- Price: 151.710 Value: 171.635
+
+2017-04-09 18:20:43.297: <Gifting>Essential Gift:- Price: 151.379 Value: -234.938
+
+2017-04-09 18:20:43.297: <Gifting>Essential Gift:- Price: 150.348 Value: -256.039
+
+2017-04-09 18:20:43.312: <Gifting>Luxury Gift:- Price: 250.071 Value: -570.166 Luxury Rating: 8 Difficulty in obtaining: medium
+

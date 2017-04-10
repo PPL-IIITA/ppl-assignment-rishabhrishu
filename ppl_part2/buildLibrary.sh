@@ -1,0 +1,3 @@
+cd RelationshipFinder
+ant
+cd..

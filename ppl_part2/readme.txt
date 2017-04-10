@@ -1,0 +1,49 @@
+								Welcome to Relationship Finder
+
+								BY- RISHABH
+								    IIT2015068
+
+ * Documentation can be found inside respective project folder/dist/javadoc/index.html
+ * Documentation of library can be found in library_documentation/index.html
+ * Log files can be found inside respective project folder/logfile.txt
+   Note:- Notepad has some issues with displaying it correctly, use wordpad instead, in case of Windows Machine
+
+ * To build the project, Apache Ant is required.
+   For ubuntu, ant can be downloaded by-
+
+	sudo apt-get update
+	sudo apt-get install ant
+
+  * First of all, we need to run build_runTestCase.sh to generate test case.
+    Then, everytime we tweak into RelationshipFinder package, we need to rebuild it. This can be accomplished by running buildLibrary.sh
+    Then, to run individual questions, use corresponding script to re-build the project, and then run it.
+    To use script on linux environments , do the following :-
+
+    linux:~$ ppl-master/ppl_part2$ bash -f scriptname.sh
+
+
+	If we dont want to use the sh file, or while using environments other than linux,
+	we can build the project by :-
+	1. Going in home folder of corresponding question.
+	2. On command line, type 'ant' without quotes.This will compile, generate executable, and generate javadoc
+	3. Going to dist directory , and running the jar, thus formed, by typing 'java -jar <jarname.jar>', without <> and ''.
+	For eg., to recompile and run ques3 , we will type following on command prompt(shown by linux:~$ ) ->
+		linux:~$ ppl-assign-master/ppl_part2$ cd ques3/
+		linux:~$ ppl-assign-master/ppl_part2/ques3$ ant
+		linux:~$ ppl-assign-master/ppl_part2/ques3$ cd dist/
+		linux:~$ ppl-assign-master/ppl_part2/ques3/dist$ java -jar ques3.jar
+			//program will execute
+		linux:~$ ppl-assign-master/ppl_part2ques3/dist$ cd ../.. 
+		linux:~$ ppl-assign-master/ppl_part2$ 
+
+
+ * NOTE :- DO NOT DELETE FOLDERS, as relative addressing is used in file I/O Opertions and import statements.
+   Delete files inside folder, but please leave directory structure intact for proper functioning of codes.
+ 
+ ** Build tested on 64-bit Ubuntu 14.04 LTS with:-
+	# java version "1.8.0_101" 
+	# Apache Ant(TM) version 1.9.3
+
+
+
+   ps:- if using any IDE, all the projects can be run on netbeans.

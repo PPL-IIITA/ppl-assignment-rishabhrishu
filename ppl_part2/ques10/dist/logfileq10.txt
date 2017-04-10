@@ -1,0 +1,17 @@
+2017-04-09 22:40:22.267: <COUPLE FORMED> Name of Boy: lrsqkycsbjtyxibbo Name of Girl issceze
+2017-04-09 22:40:22.278: <GIFTING>Essential Gift:- Price: 150.359 Value: -420.729
+
+2017-04-09 22:40:22.279: <GIFTING>Essential Gift:- Price: 153.697 Value: 106.797
+
+2017-04-09 22:40:22.28: <GIFTING>Essential Gift:- Price: 153.482 Value: -833.933
+
+2017-04-09 22:40:22.281: <GIFTING>Essential Gift:- Price: 150.842 Value: -1122.398
+
+2017-04-09 22:40:22.282: <GIFTING>Essential Gift:- Price: 154.104 Value: -1329.215
+
+2017-04-09 22:40:22.283: <GIFTING>Essential Gift:- Price: 154.438 Value: -50.539
+
+2017-04-09 22:40:22.284: <GIFTING>Essential Gift:- Price: 150.033 Value: -1.077
+
+2017-04-09 22:40:22.284: <GIFTING>Essential Gift:- Price: 154.809 Value: -806.121
+
