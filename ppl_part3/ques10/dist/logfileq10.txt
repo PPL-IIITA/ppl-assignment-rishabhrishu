@@ -1,0 +1,19 @@
+2017-04-18 23:42:17.616: <COUPLE FORMED> Name of Boy: xvhwkubishnqfr Name of Girl issceze
+2017-04-18 23:42:17.629: <GIFTING>Essential Gift:- Price: 150.842 Value: -1122.398
+
+2017-04-18 23:42:17.63: <GIFTING>Essential Gift:- Price: 150.359 Value: -420.729
+
+2017-04-18 23:42:17.63: <GIFTING>Essential Gift:- Price: 150.492 Value: -701.186
+
+2017-04-18 23:42:17.631: <GIFTING>Essential Gift:- Price: 150.131 Value: -853.814
+
+2017-04-18 23:42:17.632: <GIFTING>Essential Gift:- Price: 150.033 Value: -1.077
+
+2017-04-18 23:42:17.632: <GIFTING>Essential Gift:- Price: 152.152 Value: -340.306
+
+2017-04-18 23:42:17.633: <GIFTING>Essential Gift:- Price: 154.104 Value: -1329.215
+
+2017-04-18 23:42:17.633: <GIFTING>Essential Gift:- Price: 153.288 Value: 263.951
+
+2017-04-18 23:42:17.677: <GIFTING>Luxury Gift:- Price: 250.717 Value: -680.230 Luxury Rating: 3 Difficulty in obtaining: almost impossible
+

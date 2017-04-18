@@ -1,0 +1,21 @@
+2017-04-09 18:17:23.234: <COUPLE FORMED> Name of Boy: tqydprvupbgoz Name of Girl ngxvhyvpdtmlpnbtq
+2017-04-09 18:17:23.25: <GIFTING>Essential Gift:- Price: 150.243 Value: -1823.788
+
+2017-04-09 18:17:23.25: <GIFTING>Essential Gift:- Price: 150.986 Value: 671.616
+
+2017-04-09 18:17:23.25: <GIFTING>Essential Gift:- Price: 150.348 Value: -256.039
+
+2017-04-09 18:17:23.25: <GIFTING>Essential Gift:- Price: 150.463 Value: -737.378
+
+2017-04-09 18:17:23.25: <GIFTING>Essential Gift:- Price: 151.626 Value: -605.632
+
+2017-04-09 18:17:23.25: <Gifting>Essential Gift:- Price: 150.243 Value: -1823.788
+
+2017-04-09 18:17:23.25: <Gifting>Essential Gift:- Price: 150.986 Value: 671.616
+
+2017-04-09 18:17:23.25: <Gifting>Essential Gift:- Price: 150.348 Value: -256.039
+
+2017-04-09 18:17:23.25: <Gifting>Essential Gift:- Price: 150.463 Value: -737.378
+
+2017-04-09 18:17:23.25: <Gifting>Essential Gift:- Price: 151.626 Value: -605.632
+

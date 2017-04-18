@@ -1,0 +1,137 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+import com.relationship.*;
+import java.util.*;
+import java.util.logging.Level;
+import java.util.logging.Logger;
+
+/**
+ * Main Class of package
+ *
+ * @author Rishabh Rishu(IIT2015068)
+ */
+public class MainClass {
+
+    ArrayList<Boy> boyList;
+    ArrayList<Girl> girlList;
+    ArrayList<Gift> giftList;
+    ArrayList<Couple> coupleList;
+
+    /**
+     *
+     * @param args
+     */
+    public static void main(String[] args) {
+        int k = new Random().nextInt(10) + 2;
+        MainClass var = new MainClass();
+        var.run(k);
+        var.printK_happiest(k);
+        var.printK_compatible(k);
+        var.printGifting();
+    }
+
+    /**
+     * Used to initialize everything
+     *
+     * @param k for finding k best couples
+     */
+    public void run(int k) {
+        ScanInput sc = new ScanInput();
+        try {
+            System.out.println("****** Welcome to Match Finder ********");
+            System.out.println("-------------------------------------");
+            Thread.sleep(300);
+            System.out.println("****** Obtaining details of Boys *****");
+            try {
+                boyList = sc.getBoyList();
+            } catch (InvalidBoyTypeError ex) {
+                System.out.println(ex.getMessage());
+                System.out.println("Now exiting...");
+                System.exit(0);
+            }
+
+            System.out.println("*****Obtaining details of Girls******");
+            try {
+                girlList = sc.getGirlList();
+            } catch (InvalidGirlTypeError ex) {
+                System.out.println(ex.getMessage());
+                System.out.println("Now exiting...");
+                System.exit(0);
+            }
+
+
+            System.out.println(" **** Obtaining details of Gifts ****");
+
+            try {
+                giftList = sc.getGiftList();
+            } catch (InvalidGiftTypeError ex) {
+                System.out.println(ex.getMessage());
+                System.out.println("Now exiting...");
+                System.exit(0);
+            }
+            System.out.println("------ Success ------");
+
+            System.out.println(" ********* Making Couples **********");
+
+            CoupleAllocator ca = new CoupleAllocatorMethod1(boyList, girlList, giftList);
+            ca.setLogger(new _Logger("../logfileq3.txt"));
+            coupleList = ca.makeCouple();
+
+
+        } catch (InterruptedException ex) {
+            System.out.println("Oops, Error occured, please try again");
+        }
+
+    }
+
+    /**
+     * Helper method to print k happiest couples
+     *
+     * @param k k
+     */
+    public void printK_happiest(int k) {
+        System.out.println("\nPrinting " + k + " happiest couples:");
+        Collections.sort(coupleList, (Object o1, Object o2) -> {
+            Couple v1 = (Couple) o1;
+            Couple v2 = (Couple) o2;
+            return Double.compare(v2.getHappiness(), v1.getHappiness());
+        });
+        for (int i = 0; i < k; i++) {
+            System.out.println(coupleList.get(i));
+        }
+    }
+
+    /**
+     * Helper method to print k most compatible couples
+     *
+     * @param k k
+     */
+    public void printK_compatible(int k) {
+        System.out.println("\nPrinting " + k + " most compatible couples:");
+        Collections.sort(coupleList, (Object o1, Object o2) -> {
+            Couple v1 = (Couple) o1;
+            Couple v2 = (Couple) o2;
+            return Integer.compare(v2.getCompatibility(), v1.getCompatibility());
+        });
+        for (int i = 0; i < k; i++) {
+            System.out.println(coupleList.get(i));
+        }
+    }
+
+    /**
+     * Helper method to print gift exchanges between couples
+     */
+    public void printGifting() {
+        System.out.println("\nPrinting gift exchanges between couples:");
+        coupleList.stream().map((c) -> {
+            System.out.println(c);
+            return c;
+        }).forEach((c) -> {
+            c.printGiftExchange();
+        });
+    }
+}
